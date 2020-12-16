@@ -1,0 +1,292 @@
+p {
+  color: rgb(37, 226, 132);
+}
+#contacting {
+  border-radius: 50%;
+  margin-top: -100px;
+  margin-left: 30px;
+  filter: contrast(100%);
+  border: 6px solid rgb(37, 226, 132);
+}
+#h {
+  margin-left: 40px;
+  margin-top: -80px;
+  color: white;
+}
+#h_ {
+  margin-left: 1000px;
+  margin-top: -80px;
+  color: white;
+}
+h4 {
+  margin-top: 130px;
+  margin-left: 30px;
+}
+.cardbody {
+  background-color: rgb(62, 71, 78);
+}
+.row {
+  margin-top: 30px;
+  margin-left: 30px;
+}
+.card {
+  background-color: rgb(63, 39, 39);
+}
+.cardtitle {
+  color: white;
+  filter: contrast(100%);
+  font-size: 30px;
+  margin-left: 60px;
+  margin-top: 10px;
+}
+.cardtext {
+  color: white;
+  filter: contrast(50%);
+  margin-left: 60px;
+  border: 0px rgb(62, 71, 78);
+}
+.foot {
+  background-color: grey;
+  height: 7px;
+}
+.footer {
+  background-color: rgb(37, 226, 132);
+  height: 7px;
+  width: 150px;
+}
+.coins {
+  height: 100px;
+  width: 100px;
+}
+#photos {
+  margin-left: 20px;
+}
+.card2a {
+  background-color: grey;
+  margin-left: 950px;
+  margin-top: 150px;
+}
+.card2b {
+  background-color: white;
+  margin-left: 575px;
+  margin-top: 50px;
+}
+.card2c {
+  background-color: white;
+  margin-left: 195px;
+  margin-top: -50px;
+  margin-right: 200px;
+}
+.cardtitle2 {
+  color: black;
+  filter: contrast(100%);
+  font-size: 30px;
+  margin-left: 60px;
+  margin-top: 10px;
+}
+.cardtext2 {
+  color: orangered;
+  filter: contrast(50%);
+  margin-left: 60px;
+  border: 0px rgb(62, 71, 78);
+}
+.cardtext2n {
+  color: rgb(37, 226, 132);
+  filter: contrast(100%);
+  margin-left: 60px;
+  border: 2px rgb(62, 71, 78);
+}
+.cardbody2 {
+  background-color: rgb(62, 71, 78);
+}
+.l {
+  height: 40px;
+  width: 40px;
+  border-radius: 50%;
+  margin-bottom: -85px;
+}
+.ln {
+  height: 40px;
+  width: 40px;
+  border-radius: 50%;
+  margin-bottom: -120px;
+}
+.g {
+  width: 150px;
+  height: 30px;
+  margin-left: 1150px;
+  background-color: rgb(26, 22, 22);
+  color: orangered;
+  filter: contrast(100%);
+  border: 0px;
+  border-radius: 10px;
+}
+.content {
+  color: rgb(240, 229, 229);
+}
+.trend {
+  padding-left: 15px;
+  height: 80px;
+  width: 100px;
+}
+.games {
+  height: 250px;
+  width: 180px;
+  margin-top: 20px;
+}
+
+.games2 {
+  height: 250px;
+  width: 180px;
+  margin-left: 210px;
+  margin-top: -260px;
+}
+.games3 {
+  height: 250px;
+  width: 180px;
+  margin-top: -310px;
+  margin-left: 420px;
+}
+.games4 {
+  height: 250px;
+  width: 180px;
+  margin-top: 30px;
+  margin-left: 900px;
+}
+.games5 {
+  height: 250px;
+  width: 180px;
+  margin-top: -280px;
+  margin-left: 1100px;
+}
+.frnds {
+  color: black;
+  margin-left: 935px;
+  margin-top: -300px;
+}
+hr.rounded {
+  border-top: 8px solid #bbb;
+  border-radius: 5px;
+}
+hr.solid {
+  border-top: 3px solid #bbb;
+}
+h2 {
+  margin-left: 60px;
+  font-family: cursive;
+  margin-top: 40px;
+}
+.l {
+  margin-left: 60px;
+}
+
+body {
+  background-color: whitesmoke;
+}
+
+#person-img {
+  height: 150px;
+  width: 150px;
+
+  border-color: darkblue;
+
+  padding-left: 220px;
+  padding-top: 20px;
+}
+
+h4 {
+  font-size: 20px;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  padding-left: 445px;
+  padding-top: -400px;
+  margin-top: -200px;
+}
+#job {
+  font-size: 16px;
+  text-transform: uppercase;
+  color: blue;
+  padding-left: 143px;
+  padding-top: -30px;
+  margin-top: -20px;
+}
+
+#info {
+  font-size: 12px;
+  padding-left: 30px;
+  padding-right: 30px;
+  font-family: cursive;
+}
+
+.prev-btn,
+.next-btn {
+  color: blue;
+  font-size: 1.25rem;
+  background: transparent;
+  border-color: transparent;
+  margin: 0 0.5rem;
+  transition: var(--transition);
+  cursor: pointer;
+}
+.prev-btn:hover,
+.next-btn:hover {
+  color: darkblue;
+}
+.prev-btn::after,
+.next-btn:after {
+  border-color: transparent;
+}
+.button-container {
+  padding-left: 445px;
+  padding-top: 10px;
+  padding-bottom: 0px;
+}
+.random-btn {
+  margin-left: 450px;
+  height: 20px;
+  color: blue;
+  text-transform: uppercase;
+  margin-top: 11px;
+}
+#author {
+  margin-top: 50px;
+  margin-left: 125px;
+  font-size: 30px;
+  font-style: bold;
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+}
+.img-container {
+  background-color: white;
+  width: 400px;
+  height: 600px;
+  margin-left: 103px;
+}
+.img-container2 {
+  background-color: white;
+  width: 700px;
+  height: 300px;
+  margin-left: 600px;
+  margin-top: -600px;
+}
+
+#e {
+  margin-left: 30px;
+}
+#m {
+  margin-left: 40px;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  margin-top: 5px;
+}
+.link {
+  margin-top: 300px;
+  margin-left: 600px;
+}
+#b {
+  margin-left: 300px;
+  background-color: #4545c9;
+  color: white;
+  border-radius: 10px;
+  padding-left: 20px;
+  padding-right: 20px;
+}

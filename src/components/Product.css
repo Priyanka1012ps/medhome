@@ -1,0 +1,22 @@
+.product__image {
+  object-fit: contain;
+  border-radius: 10px;
+  width: 100%;
+}
+
+.product__single {
+  border-bottom: 1px solid lightgray;
+}
+
+.card {
+  transition: all 0.3s ease-out;
+}
+
+.card:hover {
+  -webkit-transform: scale(1.03);
+  -ms-transform: scale(1.03);
+  transform: scale(1.03);
+  box-shadow: 0 0 11px rgba(33, 33, 33, 0.5);
+  position: relative;
+  bottom: 2px;
+}
